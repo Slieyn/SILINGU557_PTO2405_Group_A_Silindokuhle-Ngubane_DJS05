@@ -1,0 +1,11 @@
+# Funtional Programming
+
+## How the code is run
+
+- On the browser there is an instruction to "Open your browser console (F12 or Right Click → Inspect → Console)"
+- Go to the console and all the results will then show
+  describing the :
+
+* The state
+* The count
+* Object
